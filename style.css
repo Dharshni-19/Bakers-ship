@@ -1,0 +1,8 @@
+.special{
+    width:200px; height:200px;
+    background-image: url("Image04.jpg");
+    opacity: 0.5;
+}
+.special p{
+    opacity: 1;
+}
